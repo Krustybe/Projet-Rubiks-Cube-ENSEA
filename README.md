@@ -1,4 +1,4 @@
-# Solver-Rubiks-Cube
+# Projet-Rubiks-Cube-ENSEA
 Le projet sur lequel j'ai travaillé consiste à concevoir un système robotique pour résoudre le Rubik's Cube, qui est un puzzle complexe et bien connu.
 
 Dans ce projet, j'ai travaillé sur les trois parties suivantes : une application Android, un serveur Wi-Fi et un algorithme de résolution.
